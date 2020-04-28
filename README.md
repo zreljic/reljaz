@@ -1,4 +1,4 @@
 # reljaz
 Tesr repot
 
-Ovo je dodatna izmjena
+Ovo je dodatna izmjena za master
