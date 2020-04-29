@@ -1,4 +1,4 @@
 # reljaz
 Tesr repot
 
-Ovo je dodatna izmjena sa test repo-a
+Ovo je dodatna izmjena sa test repo-a 2
